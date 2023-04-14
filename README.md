@@ -4,7 +4,7 @@ You might know me from the L4T-Megascript, Switchroot, or Botspot Software disco
 
 I found that Linux software support was very good for ARMhf/ARM64 in the official OS repositories (eg: apt under debian/ubuntu, and dnf on fedora) but was lacking on other open source projects that are not in OS repositories. You can find a few of my ARMhf/ARM64 porting projects linked below for software that I wanted to run but wasn't available. Many of theses applications/programs are available through the [L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) and/or [Pi-Apps](https://github.com/Botspot/pi-apps):
 
-- [Github Desktop](https://github.com/Pi-Apps-Coders/files/tree/main) - Github Desktop is a GUI git client. Compiled for ARM32/ARM64
+- [Github Desktop](https://github.com/Pi-Apps-Coders/files/releases/tag/large-files) - Github Desktop is a GUI git client. Compiled for ARM32/ARM64
 - [Nintendo Switch RetroPie Binaries](https://github.com/theofficialgman/RetroPie-Binaries) - Automatically built and hosted binaries for common libretro emulators to make installing RetroPie on Switch faster
 - [L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on [L4T Ubuntu](https://wiki.switchroot.org/en/Linux/Ubuntu-Install-Guide) with no prior knowledge of Linux needed
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
