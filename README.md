@@ -13,3 +13,4 @@ I found that Linux software support was very good for ARMhf/ARM64 in the officia
 - [Minecraft Java ARM32 Manifest](https://github.com/theofficialgman/piston-meta-arm32) - An alternative to the official Minecraft manifest with ARM32 Linux support.
 - [Minecraft Java ARM64 Manifest](https://github.com/theofficialgman/piston-meta-arm64) - An alternative to the official Minecraft manifest with ARM64 Linux support.
 - [Minecraft Java MultiMC Meta Repo](https://github.com/theofficialgman/meta-multimc) - An alternative to the MultiMC manifest with ARM32/ARM64 Linux support.
+- [MuseScore 5](https://github.com/Pi-Apps-Coders/files/releases/tag/large-files) -MuseScore is an open source and free music notation software. Ported (source changes included now upstream) and compiled AppImages for ARM32/ARM64 Linux support (also works on Chromebooks).
