@@ -6,7 +6,7 @@ I found that Linux software support was very good for ARMhf/ARM64 in the officia
 
 - [Github Desktop](https://github.com/shiftkey/desktop/pull/897) - Github Desktop is a GUI git client. Compiled for ARM32/ARM64
 - [Nintendo Switch RetroPie Binaries](https://github.com/theofficialgman/RetroPie-Binaries) - Automatically built and hosted binaries for common libretro emulators to make installing RetroPie on Switch faster
-- [L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on [L4T Ubuntu](https://wiki.switchroot.org/en/Linux/Ubuntu-Install-Guide) with no prior knowledge of Linux needed
+- [L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) - All-in-one installer and updater for popular programs on [L4T Ubuntu Jammy 22.04](https://wiki.switchroot.org/Linux/Ubuntu-Jammy-Install-Guide) and [L4T Ubuntu Bionic 18.04](https://wiki.switchroot.org/Linux/Ubuntu-Install-Guide) with no prior knowledge of Linux needed
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [Minecraft Java GDLauncher](https://github.com/Pi-Apps-Coders/files/releases/tag/large-files) - A simple, yet powerful Minecraft launcher with a strong focus on the user experience. Ported to ARM32/ARM64
 - [Minecraft Java Prism Launcher](https://prismlauncher.org/download/linux/#debian-pi-os-ubuntu-(arm3264)) - An Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability. Provides DEBs for Bionic/Buster and newer distros. Added ARM32/ARM64 to meta repo.
